@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Carlos R. Cruz-Maldonado</title><link>/</link><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><description>Carlos R. Cruz-Maldonado</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url><title>Carlos R. Cruz-Maldonado</title><link>/</link></image><item><title>Skills</title><link>/home-unused/skills/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/home-unused/skills/</guid><description/></item><item><title>Accomplish&amp;shy;ments</title><link>/home-unused/accomplishments/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/home-unused/accomplishments/</guid><description/></item><item><title>Recent Posts</title><link>/home-unused/posts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/home-unused/posts/</guid><description/></item><item><title>Projects</title><link>/home-unused/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/home-unused/projects/</guid><description/></item><item><title>Recent &amp; Upcoming Talks</title><link>/home-unused/talks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/home-unused/talks/</guid><description/></item><item><title>Featured Publications</title><link>/home-unused/featured/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/home-unused/featured/</guid><description/></item><item><title>Recent Publications</title><link>/home-unused/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/home-unused/publications/</guid><description>&lt;div class="alert alert-note">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Carlos R. Cruz-Maldonado</title><link>/</link><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><description>Carlos R. Cruz-Maldonado</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>/media/icon_hua0ed3639ce46268df2c082aacd9d28b1_184771_512x512_fill_lanczos_center_2.png</url><title>Carlos R. Cruz-Maldonado</title><link>/</link></image><item><title>Skills</title><link>/home-unused/skills/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/home-unused/skills/</guid><description/></item><item><title>Accomplish&amp;shy;ments</title><link>/home-unused/accomplishments/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/home-unused/accomplishments/</guid><description/></item><item><title>Recent Posts</title><link>/home-unused/posts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/home-unused/posts/</guid><description/></item><item><title>Projects</title><link>/home-unused/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/home-unused/projects/</guid><description/></item><item><title>Recent &amp; Upcoming Talks</title><link>/home-unused/talks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/home-unused/talks/</guid><description/></item><item><title>Featured Publications</title><link>/home-unused/featured/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/home-unused/featured/</guid><description/></item><item><title>Recent Publications</title><link>/home-unused/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/home-unused/publications/</guid><description>&lt;div class="alert alert-note">
 &lt;div>
 Quickly discover relevant content by &lt;a href="./publication/">filtering publications&lt;/a>.
 &lt;/div>
@@ -82,7 +82,7 @@ data.head()
 &lt;p>Academic supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> chart format.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-931247568" class="chart">&lt;/div>
+&lt;div id="chart-647981235" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -91,7 +91,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-931247568', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-647981235', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
